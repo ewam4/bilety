@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.exe
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.deps.json
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.runtimeconfig.json
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.runtimeconfig.dev.json
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.dll
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\ref\bilety.dll
+C:\Users\Student\source\repos\bilety\bin\Debug\net5.0\bilety.pdb
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.AssemblyInfo.cs
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.dll
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\ref\bilety.dll
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.pdb
+C:\Users\Student\source\repos\bilety\obj\Debug\net5.0\bilety.genruntimeconfig.cache
